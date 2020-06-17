@@ -26,7 +26,6 @@
             </tbody>
         </table>
     @endif
-    
     @else
         <div class="center jumbotron">
             <div class="text-center">
@@ -36,9 +35,5 @@
             </div>
         </div>
     @endif
-
-
-
-
 
 @endsection
